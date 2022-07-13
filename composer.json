@@ -1,5 +1,5 @@
 {
-	"name": "edgarindustries/youtubefield",
+	"name": "moritz-sauer-13/youtubefield",
 	"description": "Field for selecting YouTube videos. Takes various URL formats as input and stores the YouTube ID.",
 	"type": "silverstripe-vendormodule",
 	"keywords": ["silverstripe", "youtube", "formfield"],
